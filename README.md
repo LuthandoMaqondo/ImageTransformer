@@ -1,5 +1,5 @@
 # ImageTransformer
-This notebook shows a basic implementation of a transformer (decoder) architecture for image generation in TensorFlow 2.
+With more code relatability/continuity, this notebook shows a basic implementation of a transformer (decoder) architecture for image generation in TensorFlow 2.
 
 It demonstrates how to use a transformer decoder to learn a generative representation of the [MNIST](https://www.tensorflow.org/datasets/catalog/mnist) dataset and perform an autoregressive image reconstruction.
 
